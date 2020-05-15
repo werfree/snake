@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    touch-action: manipulation;
+}
+
+
+body {
+    margin: auto;
+    left: 50%;
+    right: 50%;
+    ;
+    background-color: yellow;
+    overflow: auto;
+    justify-content: center;
+}
+
+
+
+#mycanvas {
+    margin-top: 100;
+    padding: 50;
+    border: 10px solid green;
+    background-image: url("../assets/bg.jpg");
+
+}
